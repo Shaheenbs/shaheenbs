@@ -1,7 +1,7 @@
 # Hi, I'm Shaheen 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500">
+  <img src="./Output.gif" width="800">
 </div>
 
 ## 🚀 Full Stack Developer
