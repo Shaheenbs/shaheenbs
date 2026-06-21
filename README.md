@@ -28,7 +28,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=About%20Me&fontSize=24&fontColor=ffffff&fontAlignY=55&desc=🚀" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=🚀%20About%20Me&fontSize=24&fontColor=ffffff&fontAlignY=55" width="100%"/>
 
 ```yaml
 role:        IT Engineer
@@ -47,7 +47,7 @@ ask_me:      ["System Design", "API Architecture", "Cloud Deployments", "Prompt 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=Tech%20Stack&fontSize=24&fontColor=ffffff&fontAlignY=55&desc=🛠️" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=🛠️%20Tech%20Stack&fontSize=24&fontColor=ffffff&fontAlignY=55" width="100%"/>
 
 <div align="center">
 
@@ -98,7 +98,7 @@ ask_me:      ["System Design", "API Architecture", "Cloud Deployments", "Prompt 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=What%20I%20Build%20With&fontSize=24&fontColor=ffffff&fontAlignY=55&desc=🧩" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=🧩%20What%20I%20Build%20With&fontSize=24&fontColor=ffffff&fontAlignY=55" width="100%"/>
 
 | Layer | Tools |
 |---|---|
@@ -110,7 +110,7 @@ ask_me:      ["System Design", "API Architecture", "Cloud Deployments", "Prompt 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=GitHub%20Analytics&fontSize=24&fontColor=ffffff&fontAlignY=55&desc=📊" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=📊%20GitHub%20Analytics&fontSize=24&fontColor=ffffff&fontAlignY=55" width="100%"/>
 
 <div align="center">
 
