@@ -2,9 +2,11 @@
 
 <!-- ============ HERO ============ -->
 
-# Hi, I'm Shaheen 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Shaheen%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT%20Engineer%20%C2%B7%20Systems%20%C2%B7%20Automation%20%C2%B7%20AI%20Tooling&descAlignY=55&descSize=18" width="100%"/>
 
-### IT Engineer · Building reliable systems, automating the boring stuff, and shipping AI-powered tools
+<a href="https://github.com/shaheenbs">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+reliable+systems+%E2%9A%99%EF%B8%8F;Automating+the+boring+stuff+%F0%9F%A4%96;Shipping+AI-powered+tools+%F0%9F%9A%80;Always+learning%2C+always+building+%F0%9F%93%9A&font=Fira%20Code&size=22&pause=1200&color=A371F7&center=true&vCenter=true&width=600&height=50&duration=3000" alt="Typing SVG" />
+</a>
 
 <br/>
 
@@ -18,13 +20,15 @@
 
 <img src="Assets/output.gif" width="600" alt="Animated banner" />
 
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=2&section=header" width="100%"/>
+
 </div>
 
 <br/>
 
-<!-- ============ ABOUT ============ -->
-
-## 🚀 About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=About%20Me&fontSize=24&fontColor=ffffff&fontAlignY=55&desc=🚀" width="100%"/>
 
 ```yaml
 role:        IT Engineer
@@ -43,9 +47,7 @@ ask_me:      ["System Design", "API Architecture", "Cloud Deployments", "Prompt 
 
 <br/>
 
-<!-- ============ SKILLS ============ -->
-
-## 🛠️ Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=Tech%20Stack&fontSize=24&fontColor=ffffff&fontAlignY=55&desc=🛠️" width="100%"/>
 
 <div align="center">
 
@@ -96,9 +98,7 @@ ask_me:      ["System Design", "API Architecture", "Cloud Deployments", "Prompt 
 
 <br/>
 
-<!-- ============ SYSTEM DESIGN / ARCHITECTURE INTERESTS ============ -->
-
-## 🧩 What I Build With
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=What%20I%20Build%20With&fontSize=24&fontColor=ffffff&fontAlignY=55&desc=🧩" width="100%"/>
 
 | Layer | Tools |
 |---|---|
@@ -110,9 +110,7 @@ ask_me:      ["System Design", "API Architecture", "Cloud Deployments", "Prompt 
 
 <br/>
 
-<!-- ============ GITHUB ANALYTICS ============ -->
-
-## 📊 GitHub Analytics
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=GitHub%20Analytics&fontSize=24&fontColor=ffffff&fontAlignY=55&desc=📊" width="100%"/>
 
 <div align="center">
 
@@ -130,6 +128,16 @@ ask_me:      ["System Design", "API Architecture", "Cloud Deployments", "Prompt 
 <br/><br/>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shaheenbs&theme=radical&hide_border=true)
+
+<br/>
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaheenbs/shaheenbs/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shaheenbs/shaheenbs/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/shaheenbs/shaheenbs/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -151,4 +159,7 @@ ask_me:      ["System Design", "API Architecture", "Cloud Deployments", "Prompt 
 
 <sub>⭐ If you find my work interesting, consider giving my repos a star!</sub>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
 </div>
+
