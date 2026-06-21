@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Shaheen 👋
 
-<!--
-**Shaheenbs/shaheenbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500">
+</div>
 
-Here are some ideas to get you started:
+## 🚀 Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Django
+- FastAPI
+- React
+- AWS
+- Docker
+
+🌐 Website: https://shaheenbs.com
+
+💼 LinkedIn: https://linkedin.com/in/shaheenbs
+
+📧 Email: hi@shaheenbs.com
